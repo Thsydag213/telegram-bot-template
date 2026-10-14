@@ -1,0 +1,11 @@
+.git
+.github
+.env
+*.env
+service-account*.json
+*credentials*.json
+__pycache__/
+*.pyc
+.pytest_cache/
+tests/
+docs/

@@ -1,0 +1,18 @@
+# Секреты — никогда не коммитить
+.env
+
+# Python
+__pycache__/
+*.pyc
+
+# Локальные базы
+*.db
+*.sqlite3
+
+# Ключи Google service account — никогда не коммитить
+service-account*.json
+*credentials*.json
+*-key.json
+
+# Тесты
+.pytest_cache/
